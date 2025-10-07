@@ -1,4 +1,3 @@
-# walk.py (v3.1 - Goal + Distance + Obstacle Avoidance)
 # === Updated from groupmate's version, with comments marking what was added/changed ===
 
 import rclpy, math, time
