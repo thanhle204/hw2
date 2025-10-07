@@ -108,7 +108,7 @@ class SmartWalker(Node):
                 self.lin = 0.0
                 self.ang = 0.0
                 self.reached = True
-                self.get_logger().info("Goal reached successfully!")
+                self.get_logger().info("✅ Goal reached successfully!")
                 return
 
             # Stop if traveled too far (prevent higher-than-12 error)
